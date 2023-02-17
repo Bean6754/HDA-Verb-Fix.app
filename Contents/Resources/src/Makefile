@@ -1,5 +1,5 @@
 all:
-	clang -framework Foundation hda-verb-fix.m -o hda-verb-fix
+	clang hda-verb-fix.c -o hda-verb-fix
 
 install:
     ifeq (,$(wildcard ./hda-verb-fix))
