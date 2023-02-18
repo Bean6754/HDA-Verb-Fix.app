@@ -10,7 +10,7 @@ int main(void)
   strcpy(command, "../../MacOS/hda-verb 0x19 SET_PIN_WIDGET_CONTROL 0x25");
   
   /* 
-  I have found that he most stable way to run hda-verb
+  I have found that the most stable way to run 'hda-verb'
   is to run it 3 times with a small inteval in-between.
   */
   int i = 1;
