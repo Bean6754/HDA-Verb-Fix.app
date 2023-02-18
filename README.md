@@ -27,3 +27,6 @@ Quick example: 'make && make install'.
 
 ### 'Tested' hardware.
 Dell Latitude 5290 (non 2-in-1).
+
+### App Icon.
+[https://thenounproject.com/icon/audio-1052398/](https://thenounproject.com/icon/audio-1052398/)
