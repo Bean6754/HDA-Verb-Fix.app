@@ -10,4 +10,4 @@ install:
     endif
 
 clean:
-	rm *.o hda-verb-fix
+	rm hda-verb-fix
