@@ -7,7 +7,7 @@ int main(void)
 {
   char command[57];
 
-  strcpy(command, "hda-verb 0x19 SET_PIN_WIDGET_CONTROL 0x25");
+  strcpy(command, "./hda-verb 0x19 SET_PIN_WIDGET_CONTROL 0x25");
   
   /* 
   I have found that the most stable way to run 'hda-verb'
