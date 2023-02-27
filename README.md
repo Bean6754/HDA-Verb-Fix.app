@@ -3,7 +3,7 @@
 ## 'hda-verb' is not my software, I only wrote the 'hda-verb-fix' login program that utilises 'hda-verb'.
 
 ### Licensing.
-'hda-verb' is licensed under the GNU GPLv2 and 'hda-verb-fix' is licensed under the OpenBSD License.
+'hda-verb' is licensed under the GNU GPLv2 and 'hda-verb-fix' is licensed under the BSD 3-Clause License.
 
 (see 'LICENSE' for further details)
 
